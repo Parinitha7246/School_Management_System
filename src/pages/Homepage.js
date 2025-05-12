@@ -22,9 +22,9 @@ const Homepage = () => {
                             System
                         </StyledTitle>
                         <StyledText>
-                            Streamline school management, class organization, and add students and faculty.
-                            Seamlessly track attendance, assess performance, and provide feedback.
-                            Access records, view marks, and communicate effortlessly.
+                            Simplify school management, organize classes efficiently, and manage student and faculty information.
+Easily monitor attendance, evaluate performance, and offer feedback.
+Access records, check grades, and communicate smoothly.
                         </StyledText>
                         <StyledBox>
                             <StyledLink to="/choose">
